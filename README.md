@@ -1,1 +1,1 @@
-I do things
+I've been doing things in python since around May 2019, I may branch out into other languages but I'm pretty comfortable with using Python so we'll have to see. I work on Travis Bott (https://travisbott.rocks/) yeah that's pretty much my largest project to date.
